@@ -10,3 +10,15 @@ Tech Stack:
 Social Handles:  
 Website:  
 
+
+
+
+
+
+details :-
+
+1. Rohit kumar Srivastava
+2. India
+3. I am Bca final year student.
+4. My Tech Stack is Python , Html , Css and Java.
+
