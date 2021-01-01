@@ -27,7 +27,7 @@ __Website__: [Portfolio](https://jaid.tech/) | [Blogs by Jaid](https://blogs.jai
 - __Name__: Mutukundu Mahendra Reddy   
 __Country__: India   
 __About__: I am a sophomore at PES College of Engineering,Mandya,Karnataka. Currently I am a front-end developer who wants to become a full stack developer. I have keen interest in Data Science, Machine Learning and Competitive programming.    
-__Tech Stack__: Python,C-programming language,HTML5,CSS3,Javascript    
+__Tech Stack__: Python, C-programming language, HTML5, CSS3, Javascript    
 __Social Handles__: [GitHub](https://github.com/reddymahendra52)  | [Twitter](https://twitter.com/reddymahendra52)  |  [Email](mailto:reddymahendra52@gmail.com)      
 __Website__: [Portfolio](https://reddymahendra52.tech/)
 
