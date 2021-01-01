@@ -24,4 +24,9 @@ __Tech Stack__: Python and MERN
 __Social Handles__:  [Twitter](https://twitter.com/jai_dewani) | [GitHub](https://github.com/jai-dewani) | [Instagram](https://www.instagram.com/jai_dewani/)  
 __Website__: [Portfolio](https://jaid.tech/) | [Blogs by Jaid](https://blogs.jaid.tech/)  
 
-  
+- __Name__:  Chandrika Deb  
+__Country__:  India   
+__About__:  Software Associate at Amdocs, a 2020 CS graduate from BIT Mesra. Well versed in Web Development and Deep Learning concepts. Likes to write tech blogs, sketch, dance, and to try anything new!  
+__Tech Stack__:  Spring, Java, Microservices, Python, ML/DL     
+__Social Handles__:  [Twitter](https://twitter.com/chandrikadeb7) | [GitHub](https://github.com/chandrikadeb7) | [Instagram](https://www.instagram.com/___cd.___/)   
+__Website__:  [Portfolio](https://chandrikadeb7.github.io/)  
