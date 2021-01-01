@@ -24,4 +24,9 @@ __Tech Stack__: Python and MERN
 __Social Handles__:  [Twitter](https://twitter.com/jai_dewani) | [GitHub](https://github.com/jai-dewani) | [Instagram](https://www.instagram.com/jai_dewani/)  
 __Website__: [Portfolio](https://jaid.tech/) | [Blogs by Jaid](https://blogs.jaid.tech/)  
 
-  
+- __Name__:  Suraj Verma  
+__Country__:  India   
+__About__:  A sophomore year undergrad from VIT Vellore, Loves writing tech blogs and programming.  
+__Tech Stack__:  MERN Stack, Python, Git.     
+__Social Handles__:  [Twitter](https://twitter.com/imsurajv) | [GitHub](https://github.com/Surajv311)   
+__Website__:  [Portfolio](https://surajverma.netlify.app/)  
