@@ -24,4 +24,9 @@ __Tech Stack__: Python and MERN
 __Social Handles__:  [Twitter](https://twitter.com/jai_dewani) | [GitHub](https://github.com/jai-dewani) | [Instagram](https://www.instagram.com/jai_dewani/)  
 __Website__: [Portfolio](https://jaid.tech/) | [Blogs by Jaid](https://blogs.jaid.tech/)  
 
-  
+- __Name__: Ravi Bhagyoday   
+__Country__: India
+__About__: I am Co-founder at Rovae Incorporation, Rovae is an india based IT company, which is a group of IT professionals that specialize in providing services such as Web Development, Cloud Services, IT Security, Marketing, IT Consultancy, and much more. I am an AWS Certified Solution Architect with having good Command on Creating AWS Cloud Infrastructure, Reducing Costing of Existing Cloud Infrastructure, Advanced Backup System on cloud & Secure Cloud Infrastructure. Along with this I am Cyber Security Researcher, I have published Research Papers on the same.
+__Tech Stack__: Cloud Architect, DevOps, NetOps  
+__Social Handles__:  [LinkedIn](https://www.linkedin.com/in/ravibhagyoday/) | [Email](mailto:ravi@rovae.in) | [Instagram](https://www.instagram.com/mad_jack__/)   
+__Website__: [Company Portfolio](https://rovae.in/) | [Personal Portfolio](http://madjack.co.in/)
