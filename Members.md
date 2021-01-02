@@ -10,3 +10,9 @@ Tech Stack:
 Social Handles:  
 Website:  
 
+- Name: Rohit kumar srivastava <br>
+  Country: India <br>
+  About : A BCA Student .Love to makes projects in python ,web and java as well . Competitive Programmer and open source lover . <br>
+  Tech Stack : Python and java <br>
+  Social Handles : [Twitter](https://twitter.com/iam_rksri) | [Github](https://github.com/rcoder23)
+  
