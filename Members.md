@@ -24,4 +24,10 @@ __Tech Stack__: Python and MERN
 __Social Handles__:  [Twitter](https://twitter.com/jai_dewani) | [GitHub](https://github.com/jai-dewani) | [Instagram](https://www.instagram.com/jai_dewani/)  
 __Website__: [Portfolio](https://jaid.tech/) | [Blogs by Jaid](https://blogs.jaid.tech/)  
 
+-__Name__: Rohit Kumar Srivastava
+__Country__: India 
+__About__: A 3rd year BCA students ,A self - taught developer . Competitve programmer and Open Source Enthusiast . I am always ready to learn from others .
+__Tech Stack__: Java ,Python , HTML and CSS .
+__Social Handles__: [Twitter](https://twitter.com/iam_rksri) | [GitHub](https://github.com/rcoder23) 
+
   
