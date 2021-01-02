@@ -30,3 +30,11 @@ __About__:  A sophomore year undergrad from VIT Vellore, Loves writing tech blog
 __Tech Stack__:  MERN Stack, Python, Git.     
 __Social Handles__:  [Twitter](https://twitter.com/imsurajv) | [GitHub](https://github.com/Surajv311)   
 __Website__:  [Portfolio](https://surajverma.netlify.app/)  
+
+- __Name__:  Aditya Thakur  
+__Country__:  India  
+__About__:    I am currently pursuing B.Tech CSE from SRM University with specialisation in Data Science and Artificial Intelligence. I make programming videos.  
+__Tech Stack__:  Flutter, Java, Python  
+__Social Handles__:  [LinkedIn](https://www.linkedin.com/in/adityathakurxd/)  | [GitHub](https://github.com/adityathakurxd) | [Twitter](https://twitter.com/adityathakurxd) | [Instagram](https://www.instagram.com/adityathakurxd/)  
+__Website__:  [YouTube Channel](https://www.youtube.com/channel/UChCAJNpMwoEUYCsE_eSyU4w) | [Portfolio](http://adityathakur.studio/) 
+
