@@ -43,7 +43,7 @@ __Social Handles__:  [LinkedIn](https://www.linkedin.com/in/vaidhyanathansm/)  |
 __Website__:  [Portfolio](http://smv1999.github.io/) | [Google Play Store](https://play.google.com/store/apps/developer?id=Programmers+Gateway)
 
 
- __Name__: Ravi Bhagyoday   
+- __Name__: Ravi Bhagyoday   
 __Country__: India  
 __About__: I am Co-founder at Rovae Incorporation, Rovae is an india based IT company, which is a group of IT professionals that specialize in providing services such as Web Development, Cloud Services, IT Security, Marketing, IT Consultancy, and much more. I am an AWS Certified Solution Architect with having good Command on Creating AWS Cloud Infrastructure, Reducing Costing of Existing Cloud Infrastructure, Advanced Backup System on cloud & Secure Cloud Infrastructure. Along with this I am Cyber Security Researcher, I have published Research Papers on the same.  
 __Tech Stack__: Cloud Architect, DevOps, NetOps  
