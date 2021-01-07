@@ -157,3 +157,10 @@ __About__: Member of Technical Staff at Zettabytes Inc.. Love to work with Javas
 __Tech Stack__: Javascript | React | Node | Python | Go
 __Social Handles__:  [Twitter](https://twitter.com/shvmsrma) | [GitHub](https://github.com/shvmsrma) 
 __Website__: [Portfolio](https://shvmsrma.github.io) 
+
+- __Name__:  Santhosh Kolundhuvel 
+__Country__:  India  
+__About__:  I am Santhosh shortly San doing my bachelor's degree in University College of Engineering, Trichy. I am from the so-called "Mango City", Salem.I am passionate about coding & designing, inquisitive in exploring new technologies to solve real-life problems.Ready to give a shot to everything, I wanted in life.<br />
+__Tech Stack__:  React, Nextjs,Javascript,Typescript,sass,styled components, Java,C, C++,mongodb,mysql, Firebase, Git, GitHub, Figma   
+__Social Handles__:  [Twitter](https://twitter.com/santhoshvelr) | [GitHub](https://github.com/sank2000) | [Email](mailto:santhoshvelr@gmail.com) |[Instagram](https://www.instagram.com/santhoshvelr/) | [LinkedIn](https://www.linkedin.com/in/santhosh-k-589203178/) <br />
+__Website__:  [Portfolio](https://sandev.tech/) 
