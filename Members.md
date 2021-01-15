@@ -26,7 +26,7 @@ __Social Handles__: [Twitter](https://twitter.com/jai_dewani) | [GitHub](https:/
 __Website__: [Portfolio](https://jaid.tech/) | [Blogs by Jaid](https://blogs.jaid.tech/)  
 
 
-- __Name__: Musavveer Rehaman
+- __Name__: Musavveer Rehaman    
 __Country__: India  
 __About__: I am a sophomore at VVIT, Bangalore, Karnataka. I am an Open-Source enthusiast and a Tech-Savvy.
 __Tech Stack__: Python, C-programming, HTML5, CSS3, Javascript  
@@ -75,7 +75,7 @@ __Social Handles__: [LinkedIn](https://www.linkedin.com/in/vatsal-kesarwani/)  |
 __Website__: [Portfolio](https://www.notion.so/vatsalkesarwani/Hello-I-am-Vatsal-759580bb25e547889bbdb21e269b5c4b)
 
 
-- __Name__: Kishan Kumar Rai
+- __Name__: Kishan Kumar Rai   
 __Country__: India  
 __About__: I am a 3rd year CSE undergraduate from J. C. Bose University of Science & Technology, YMCA Faridabad. I am a tech enthusiast,
 Public Speaker, Writer, Blogger.   
@@ -147,7 +147,7 @@ __Social Handles__: [LinkedIn](https://www.linkedin.com/in/nishkarshraj) | [GitH
 __Website__: http://nishkarshraj.github.io  
 
 
-- __Name__: Vanshika Garg
+- __Name__: Vanshika Garg   
 __Country__: India  
 __About__: I am currently pursuing B.Tech CSE from Banasthali Vidyapith. I am the Google Developer Student Clubs Lead at my Campus and currently interning at CRIS as a Software Developer. Being a technology enthusiast, I love to explore new horizons including open-source contribution and Data Science. I am driven by the will to create an impact and encourage diversity and inclusion in communities.  
 __Tech Stack__: Python, Django, C/C++, HTML, CSS, JavaScript, PostgreSQL  
@@ -184,4 +184,26 @@ __About__: I have just pursued my post graduation MSC in IT, checking out opport
 __Tech Stack__: Flutter, React JS, VBA, DAX, PowerBI   
 __Social Handles__: [Twitter](https://twitter.com/priya_darshu_) | [GitHub](https://github.com/priyadarshu) | [Email](mailto:priyadarshinichettiar@gmail.com) | [Instagram](https://www.instagram.com/darshu_rejuvenates/) | [LinkedIn](https://www.linkedin.com/in/priyadarshini-chettiar-476332129/)  
  
+
+ - __Name__:  Aman Ojha  
+ __Country__:  India  
+ __About__:  A Undergraduate BCA student from Delhi. Searching for Jobs as a Fresher. I love listening to music **POP Music** and also love to play some PC Games like Assassin's Creed Valhalla and Red Dead Redemption 2 and more.  
+ __Tech Stack__:  Flutter, React JS, Django, Python, Java, C++, PHP  
+ __Social Handles__:  [Twitter](https://twitter.com/coderaman07) | [GitHub](https://github.com/coderaman07) | [Email](mailto:coderaman07@gmail.com) | [Instagram](https://www.instagram.com/aman_.1107/) | [LinkedIn](https://www.linkedin.com/in/coderaman07/)  
+ __Website__: [Portfolio](https://amanojha.me/)  
+
+- __Name__:  Rahul Sain  
+__Country__:  India  
+__About__:  I am a second year CS undergraduate from BPIT, Delhi. I am currently unfolding the abstract of Android in Kotlin langauge, I also make podcast for various DSA question for a quick revision before an interview.  
+__Tech Stack__:  C/C++, Java, Kotlin, Firebase  
+__Social Handles__:  [LinkedIn](https://www.linkedin.com/in/rahulsain/)  | [GitHub](https://github.com/rahulsain) | [Twitter](https://twitter.com/rahul_sain01) | [Instagram](instagram.com/_rahulsain/)  
+__Website__:  [Podcast](https://anchor.fm/rahulsain) | [Listen to my Podcast on Spotify](https://open.spotify.com/show/1CJoDKXx9tmk5BxI0pvgGX)  
+
+
+- __Name__: Divyang Bagla 
+__Country__: India  
+__About__: I am a Junior year CS undergraduate from MIT-WPU, Pune.I know web development technologies like Django, Bootstrap. I like to do competitive programming. I love learning new things. 
+__Tech Stack__: C/C++, Python,MySQL,Django, BootStrap 
+__Social Handles__: [LinkedIn](https://www.linkedin.com/in/divyang-bagla-976233176/) | [GitHub](https://github.com/bagladivyang03)  
+__Website__: [Portfolio](https://divyangbagla.vercel.app/)  
 
