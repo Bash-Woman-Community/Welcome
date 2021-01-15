@@ -185,25 +185,26 @@ __Tech Stack__: Flutter, React JS, VBA, DAX, PowerBI
 __Social Handles__: [Twitter](https://twitter.com/priya_darshu_) | [GitHub](https://github.com/priyadarshu) | [Email](mailto:priyadarshinichettiar@gmail.com) | [Instagram](https://www.instagram.com/darshu_rejuvenates/) | [LinkedIn](https://www.linkedin.com/in/priyadarshini-chettiar-476332129/)  
  
 
- - __Name__:  Aman Ojha  
- __Country__:  India  
- __About__:  A Undergraduate BCA student from Delhi. Searching for Jobs as a Fresher. I love listening to music **POP Music** and also love to play some PC Games like Assassin's Creed Valhalla and Red Dead Redemption 2 and more.  
- __Tech Stack__:  Flutter, React JS, Django, Python, Java, C++, PHP  
- __Social Handles__:  [Twitter](https://twitter.com/coderaman07) | [GitHub](https://github.com/coderaman07) | [Email](mailto:coderaman07@gmail.com) | [Instagram](https://www.instagram.com/aman_.1107/) | [LinkedIn](https://www.linkedin.com/in/coderaman07/)  
+ - __Name__: Aman Ojha  
+ __Country__: India  
+ __About__: A Undergraduate BCA student from Delhi. Searching for Jobs as a Fresher. I love listening to music **POP Music** and also love to play some PC Games like Assassin's Creed Valhalla and Red Dead Redemption 2 and more.  
+ __Tech Stack__: Flutter, React JS, Django, Python, Java, C++, PHP  
+ __Social Handles__: [Twitter](https://twitter.com/coderaman07) | [GitHub](https://github.com/coderaman07) | [Email](mailto:coderaman07@gmail.com) | [Instagram](https://www.instagram.com/aman_.1107/) | [LinkedIn](https://www.linkedin.com/in/coderaman07/)  
  __Website__: [Portfolio](https://amanojha.me/)  
 
-- __Name__:  Rahul Sain  
-__Country__:  India  
-__About__:  I am a second year CS undergraduate from BPIT, Delhi. I am currently unfolding the abstract of Android in Kotlin langauge, I also make podcast for various DSA question for a quick revision before an interview.  
-__Tech Stack__:  C/C++, Java, Kotlin, Firebase  
-__Social Handles__:  [LinkedIn](https://www.linkedin.com/in/rahulsain/)  | [GitHub](https://github.com/rahulsain) | [Twitter](https://twitter.com/rahul_sain01) | [Instagram](instagram.com/_rahulsain/)  
-__Website__:  [Podcast](https://anchor.fm/rahulsain) | [Listen to my Podcast on Spotify](https://open.spotify.com/show/1CJoDKXx9tmk5BxI0pvgGX)  
 
-
-- __Name__: Divyang Bagla 
+- __Name__: Rahul Sain  
 __Country__: India  
-__About__: I am a Junior year CS undergraduate from MIT-WPU, Pune.I know web development technologies like Django, Bootstrap. I like to do competitive programming. I love learning new things. 
-__Tech Stack__: C/C++, Python,MySQL,Django, BootStrap 
-__Social Handles__: [LinkedIn](https://www.linkedin.com/in/divyang-bagla-976233176/) | [GitHub](https://github.com/bagladivyang03)  
-__Website__: [Portfolio](https://divyangbagla.vercel.app/)  
+__About__: I am a second year CS undergraduate from BPIT, Delhi. I am currently unfolding the abstract of Android in Kotlin langauge, I also make podcast for various DSA question for a quick revision before an interview.  
+__Tech Stack__: C/C++, Java, Kotlin, Firebase  
+__Social Handles__: [LinkedIn](https://www.linkedin.com/in/rahulsain/)  | [GitHub](https://github.com/rahulsain) | [Twitter](https://twitter.com/rahul_sain01) | [Instagram](instagram.com/_rahulsain/)  
+__Website__: [Podcast](https://anchor.fm/rahulsain) | [Listen to my Podcast on Spotify](https://open.spotify.com/show/1CJoDKXx9tmk5BxI0pvgGX)  
 
+
+- __Name__: Divyang Bagla   
+__Country__: India    
+__About__: I am a Junior year CS undergraduate from MIT-WPU, Pune.I know web development technologies like Django, Bootstrap. I like to do competitive programming. I love learning new things.   
+__Tech Stack__: C/C++, Python,MySQL,Django, BootStrap   
+__Social Handles__: [LinkedIn](https://www.linkedin.com/in/divyang-bagla-976233176/) | [GitHub](https://github.com/bagladivyang03)   
+__Website__: [Portfolio](https://divyangbagla.vercel.app/)  
+ 
