@@ -208,3 +208,10 @@ __Tech Stack__: C/C++, Python,MySQL,Django, BootStrap
 __Social Handles__: [LinkedIn](https://www.linkedin.com/in/divyang-bagla-976233176/) | [GitHub](https://github.com/bagladivyang03)   
 __Website__: [Portfolio](https://divyangbagla.vercel.app/)  
  
+
+- __Name__: Arpit Omprakash   
+__Country__: India    
+__About__: I am a MS students from IISER Mohali, carrying out research in bioinformatics. I love puzzles, coding, cryptography, and, helping others learn new stuff!   
+__Tech Stack__: Python, Flask, Java, Git, Bash,HTML, CSS, JavaScript, Bootstrap   
+__Social Handles__: [LinkedIn](https://www.linkedin.com/in/arpit-omprakash-59b748161/) | [GitHub](https://github.com/aceking007) | [Twitter](https://twitter.com/arpit_omprakash)   
+__Website__: [Blog - A Pinch of Life](https://aceking007.github.io/)  
