@@ -215,3 +215,11 @@ __About__: I am a MS students from IISER Mohali, carrying out research in bioinf
 __Tech Stack__: Python, Flask, Java, Git, Bash,HTML, CSS, JavaScript, Bootstrap   
 __Social Handles__: [LinkedIn](https://www.linkedin.com/in/arpit-omprakash-59b748161/) | [GitHub](https://github.com/aceking007) | [Twitter](https://twitter.com/arpit_omprakash)   
 __Website__: [Blog - A Pinch of Life](https://aceking007.github.io/)  
+
+- __Name__: Ananya Gupta  
+__Country__: India  
+__About__: Hi, I am Ananya Gupta. I am currently pursuing B.Tech CSE from Banasthali Vidyapith. I love contributing to the society and explore new opportunities for me!  
+__Tech Stack__:C++, Git, Java, Python, MySQL, PHP, Javascript, Flutter, Bootstrap, HTML, CSS, Figma, Adobe XD, Canva
+__Social Handles__: [Twitter](https://twitter.com/Ananya0504) | [GitHub](https://github.com/ananya0504) | [Email](mailto:ananyagupta0504@gmail.com) | [Instagram](https://www.instagram.com/_ananya0504) | [LinkedIn](https://www.linkedin.com/in/ananya-gupta-aa0752193/)  
+
+
