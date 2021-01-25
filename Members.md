@@ -222,4 +222,8 @@ __About__: Hi, I am Ananya Gupta. I am currently pursuing B.Tech CSE from Banast
 __Tech Stack__:C++, Git, Java, Python, MySQL, PHP, Javascript, Flutter, Bootstrap, HTML, CSS, Figma, Adobe XD, Canva
 __Social Handles__: [Twitter](https://twitter.com/Ananya0504) | [GitHub](https://github.com/ananya0504) | [Email](mailto:ananyagupta0504@gmail.com) | [Instagram](https://www.instagram.com/_ananya0504) | [LinkedIn](https://www.linkedin.com/in/ananya-gupta-aa0752193/)  
 
-
+- __Name__: Jaskeerat Singh  
+__Country__: India  
+__About__: Hi, I am Jaskeerat Singh . I am currently pursuing B.Tech in I.T from IPU. I love developing things for the use of society and explore exciting opportunities available for students to upskill themselves , I love OPEN-SOURCE very much and would love to upskill in that as much as possible , next steps are to enter in the world of DevOps and learn Docker , K8s and Jenkins like stuff 
+__Tech Stack__: C , C++ , Java , Git , Python , Web Development( MERN/MEAN Stack)                      
+__Social Handles__: [Twitter](https://twitter.com/Jaskeer56002158) | [GitHub](https://github.com/Jassi10000) | [Email](mailto:jaskeerat10000@gmail.com) | [Instagram](https://www.instagram.com/the_aristocratic_lad/) | [LinkedIn](https://www.linkedin.com/in/jaskeerat-singh-5438531a6/)  
