@@ -1,0 +1,16 @@
+name: Lint
+
+on: [pull_request]
+
+jobs:
+  markdownlint:
+    runs-on: ${{ matrix.os }}
+    strategy:
+      matrix:
+        os:
+          - ubuntu-latest
+        node_version:
+          - 14
+        architecture:
+          - x64
+    name: Markdown Node ${{ matrix.node_version }} - ${{ matrix.architecture }} on ${{ matrix.os }}

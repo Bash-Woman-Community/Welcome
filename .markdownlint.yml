@@ -1,0 +1,11 @@
+# MD012/no-multiple-blanks
+MD012: false
+
+# MD013/line-length
+MD013: false
+
+# MD025/single-title/single-h1
+MD025: false
+
+# MD026/no-trailing-punctuation
+MD026: false
