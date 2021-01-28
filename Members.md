@@ -222,4 +222,9 @@ __About__: Hi, I am Ananya Gupta. I am currently pursuing B.Tech CSE from Banast
 __Tech Stack__:C++, Git, Java, Python, MySQL, PHP, Javascript, Flutter, Bootstrap, HTML, CSS, Figma, Adobe XD, Canva
 __Social Handles__: [Twitter](https://twitter.com/Ananya0504) | [GitHub](https://github.com/ananya0504) | [Email](mailto:ananyagupta0504@gmail.com) | [Instagram](https://www.instagram.com/_ananya0504) | [LinkedIn](https://www.linkedin.com/in/ananya-gupta-aa0752193/)  
 
+- __Name__: Ayush Kumar  
+__Country__: India  
+__About__: Hlo Everyone My name is Ayush I am ECE undergrand from ABESEC GHAZIABAD UP I love contributing to open source and help peoples in tech background Development and coding is my second play.   
+__Tech Stack__:C++, Git, Java, Python, MySQL, PHP, Javascript, Docker, Kubernates, Bootstrap, HTML, CSS, Flask, Django, Tensorgram, Typescript
+__Social Handles__: [Twitter](https://twitter.com/AyushKu38757918) | [GitHub](https://github.com/Ayush7614) | [Email](mailto:ayushknj3@gmail.com) | [Instagram](https://www.instagram.com/ayush_msdian) | [LinkedIn](https://www.linkedin.com/in/ayush-kumar-🇮🇳-984443191/) | [Hashnode Blogs](https://hashnode.com/@Ayush7614) | [Website](https://ayush7614.github.io/ayushportfolio.github.io/)
 
