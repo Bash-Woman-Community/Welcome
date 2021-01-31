@@ -178,6 +178,7 @@ __Tech Stack__: Python, C, C++, Swift, HTML, CSS, Javascript.
 __Social Handles__: [Twitter](https://twitter.com/PrifyPhilip) | [GitHub](https://github.com/Amchuz) | [Email](mailto:amchu1714@gmail.com) | [Instagram](https://www.instagram.com/amchuz/) | [LinkedIn](https://www.linkedin.com/in/prify-philip-343b53150)  
 __Website__:  [YouTube](https://www.youtube.com/channel/UCzHTmEZykWoSvK2GtNwGj9A) 
 
+
 - __Name__: Priyadarshini Chettiar  
 __Country__: India  
 __About__: I have just pursued my post graduation MSC in IT, checking out opportunities in tech industry as a fresher. I like to write [Quotes](https://www.yourquote.in/priyadarshini-chettiar-r6iq/quotes) and [Blogs](https://thedriftedsoul.blogspot.com/) to inspire people. Planning to start writing technical blogs.  
@@ -208,7 +209,7 @@ __Tech Stack__: C/C++, Python,MySQL,Django, BootStrap
 __Social Handles__: [LinkedIn](https://www.linkedin.com/in/divyang-bagla-976233176/) | [GitHub](https://github.com/bagladivyang03)   
 __Website__: [Portfolio](https://divyangbagla.vercel.app/)  
  
-
+ 
 - __Name__: Arpit Omprakash   
 __Country__: India    
 __About__: I am a MS students from IISER Mohali, carrying out research in bioinformatics. I love puzzles, coding, cryptography, and, helping others learn new stuff!   
@@ -216,11 +217,13 @@ __Tech Stack__: Python, Flask, Java, Git, Bash,HTML, CSS, JavaScript, Bootstrap
 __Social Handles__: [LinkedIn](https://www.linkedin.com/in/arpit-omprakash-59b748161/) | [GitHub](https://github.com/aceking007) | [Twitter](https://twitter.com/arpit_omprakash)   
 __Website__: [Blog - A Pinch of Life](https://aceking007.github.io/)  
 
+
 - __Name__: Ananya Gupta  
 __Country__: India  
 __About__: Hi, I am Ananya Gupta. I am currently pursuing B.Tech CSE from Banasthali Vidyapith. I love contributing to the society and explore new opportunities for me!  
 __Tech Stack__:C++, Git, Java, Python, MySQL, PHP, Javascript, Flutter, Bootstrap, HTML, CSS, Figma, Adobe XD, Canva
 __Social Handles__: [Twitter](https://twitter.com/Ananya0504) | [GitHub](https://github.com/ananya0504) | [Email](mailto:ananyagupta0504@gmail.com) | [Instagram](https://www.instagram.com/_ananya0504) | [LinkedIn](https://www.linkedin.com/in/ananya-gupta-aa0752193/)  
+
 
 - __Name__: Jaskeerat Singh  
 __Country__: India  
@@ -228,15 +231,25 @@ __About__: Hi, I am Jaskeerat Singh . I am currently pursuing B.Tech in I.T from
 __Tech Stack__: C , C++ , Java , Git , Python , Web Development( MERN/MEAN Stack)                          
 __Social Handles__: [Twitter](https://twitter.com/Jaskeer56002158) | [GitHub](https://github.com/Jassi10000) | [Email](mailto:jaskeerat10000@gmail.com) | [Instagram](https://www.instagram.com/the_aristocratic_lad/) | [LinkedIn](https://www.linkedin.com/in/jaskeerat-singh-5438531a6/)  
 
+
 - __Name__: Ayush Kumar  
 __Country__: India   
 __About__: Hlo Everyone My name is Ayush I am ECE undergrand from ABESEC GHAZIABAD UP I love contributing to open source and help peoples in tech background Development and coding is my second play.   
 __Tech Stack__:C++, Git, Java, Python, MySQL, PHP, Javascript, Docker, Kubernates, Bootstrap, HTML, CSS, Flask, Django, Tensorgram, Typescript    
 __Social Handles__: [Twitter](https://twitter.com/AyushKu38757918) | [GitHub](https://github.com/Ayush7614) | [Email](mailto:ayushknj3@gmail.com) | [Instagram](https://www.instagram.com/ayush_msdian) | [LinkedIn](https://www.linkedin.com/in/ayush-kumar-🇮🇳-984443191/) | [Hashnode Blogs](https://hashnode.com/@Ayush7614) | [Website](https://ayush7614.github.io/ayushportfolio.github.io/)
 
+
+- __Name__: Hariharan Balasubramanian
+__Country__: India  
+__About__: A 3rd year Computer Science Engineer with keen interest over MERN Stack web development, Mobile app development, Machine Learning and DSA
+__Tech Stack__: HTML, CSS, JS, React, React Native, Python, MongoDB, Node, Firebase, Keras, Tensorflow
+__Social Handles__: [LinkedIn](https://www.linkedin.com/in/hariharan-balasubramanian-2a7607187/)  | [GitHub](https://github.com/HariAcidReign) | [Email](mailto:haran465@gmail.com) | [Instagram](https://www.instagram.com/harikaapi_right/)  
+__Website__: [Portfolio](https://hariacidreign.github.io/) 
+
+
 - __Name__: Rachit Tandon 
 __Country__: India  
 __About__: Hola folks! I'm Rachit Tandon.I am currently pursuing B.Tech(CSE) from JSSATE. I love designing websites and keep things as simple as possible. My goals is to focus on minimalism and conveying the message that you want to send.
-__Tech Stack__: C, C++, Full stack web developer
+__Tech Stack__: C, C++, Full stack web developer   
 __Social Handles__: [Twitter](https://twitter.com/Rachit12) | [GitHub](https://github.com/webdevrachit) | [Email](mailto:rachittandon1201@gmail.com) | [LinkedIn](https://www.linkedin.com/in/rachit-tandon12/) | [Hashnode Blogs](https://hashnode.com/@geekrachit)
 
