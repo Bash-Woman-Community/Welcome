@@ -233,3 +233,10 @@ __Country__: India
 __About__: Hlo Everyone My name is Ayush I am ECE undergrand from ABESEC GHAZIABAD UP I love contributing to open source and help peoples in tech background Development and coding is my second play.   
 __Tech Stack__:C++, Git, Java, Python, MySQL, PHP, Javascript, Docker, Kubernates, Bootstrap, HTML, CSS, Flask, Django, Tensorgram, Typescript    
 __Social Handles__: [Twitter](https://twitter.com/AyushKu38757918) | [GitHub](https://github.com/Ayush7614) | [Email](mailto:ayushknj3@gmail.com) | [Instagram](https://www.instagram.com/ayush_msdian) | [LinkedIn](https://www.linkedin.com/in/ayush-kumar-🇮🇳-984443191/) | [Hashnode Blogs](https://hashnode.com/@Ayush7614) | [Website](https://ayush7614.github.io/ayushportfolio.github.io/)
+
+- __Name__: Rachit Tandon 
+__Country__: India  
+__About__: Hola folks! I'm Rachit Tandon.I am currently pursuing B.Tech(CSE) from JSSATE. I love designing websites and keep things as simple as possible. My goals is to focus on minimalism and conveying the message that you want to send.
+__Tech Stack__: C, C++, Full stack web developer
+__Social Handles__: [Twitter](https://twitter.com/Rachit12) | [GitHub](https://github.com/webdevrachit) | [Email](mailto:rachittandon1201@gmail.com) | [LinkedIn](https://www.linkedin.com/in/rachit-tandon12/) | [Hashnode Blogs](https://hashnode.com/@geekrachit)
+
