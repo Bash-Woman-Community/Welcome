@@ -233,3 +233,11 @@ __Country__: India
 __About__: Hlo Everyone My name is Ayush I am ECE undergrand from ABESEC GHAZIABAD UP I love contributing to open source and help peoples in tech background Development and coding is my second play.   
 __Tech Stack__:C++, Git, Java, Python, MySQL, PHP, Javascript, Docker, Kubernates, Bootstrap, HTML, CSS, Flask, Django, Tensorgram, Typescript    
 __Social Handles__: [Twitter](https://twitter.com/AyushKu38757918) | [GitHub](https://github.com/Ayush7614) | [Email](mailto:ayushknj3@gmail.com) | [Instagram](https://www.instagram.com/ayush_msdian) | [LinkedIn](https://www.linkedin.com/in/ayush-kumar-🇮🇳-984443191/) | [Hashnode Blogs](https://hashnode.com/@Ayush7614) | [Website](https://ayush7614.github.io/ayushportfolio.github.io/)
+
+
+- __Name__: Hariharan Balasubramanian
+__Country__: India  
+__About__: A 3rd year Computer Science Engineer with keen interest over MERN Stack web development, Mobile app development, Machine Learning and DSA
+__Tech Stack__: HTML, CSS, JS, React, React Native, Python, MongoDB, Node, Firebase, Keras, Tensorflow
+__Social Handles__: [LinkedIn](https://www.linkedin.com/in/hariharan-balasubramanian-2a7607187/)  | [GitHub](https://github.com/HariAcidReign) | [Email](mailto:haran465@gmail.com) | [Instagram](https://www.instagram.com/harikaapi_right/)  
+__Website__: [Portfolio](https://hariacidreign.github.io/) 
