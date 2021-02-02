@@ -253,3 +253,10 @@ __About__: Hola folks! I'm Rachit Tandon.I am currently pursuing B.Tech(CSE) fro
 __Tech Stack__: C, C++, Full stack web developer   
 __Social Handles__: [Twitter](https://twitter.com/Rachit12) | [GitHub](https://github.com/webdevrachit) | [Email](mailto:rachittandon1201@gmail.com) | [LinkedIn](https://www.linkedin.com/in/rachit-tandon12/) | [Hashnode Blogs](https://hashnode.com/@geekrachit)
 
+
+- __Name__: Priya Mondal 
+__Country__: India 
+__About__: Halo jeder! This is Priya Mondal, a sophomore pursuing B.Tech(CSE) from SNU. Web-Developer, Graphic Designer, Machine Learning Enthusiast. Next steps are to enter the world of MLOps. 
+__Tech Stack__: Python, C++, HTML, CSS, Bootstrap, JavaScript, Docker, Kubernetes, Typescript, Git, MLOps, Figma, Adobe XD, Canva
+__Social Handles__: [Twitter](https://twitter.com/PriyaMondal) | [GitHub](https://github.com/Priya96-sketch) | [Email](mailto:priyapujamondal@gmail.com) | [LinkedIn](https://www.linkedin.com/in/priya-mondal-0b343b1a0/) | [Hashnode Blogs](https://hashnode.com/@strugglerpriya)
+
