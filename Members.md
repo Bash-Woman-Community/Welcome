@@ -253,3 +253,10 @@ __About__: Hola folks! I'm Rachit Tandon.I am currently pursuing B.Tech(CSE) fro
 __Tech Stack__: C, C++, Full stack web developer   
 __Social Handles__: [Twitter](https://twitter.com/Rachit12) | [GitHub](https://github.com/webdevrachit) | [Email](mailto:rachittandon1201@gmail.com) | [LinkedIn](https://www.linkedin.com/in/rachit-tandon12/) | [Hashnode Blogs](https://hashnode.com/@geekrachit)
 
+
+- __Name__: Karuna Tata
+__Country__: India  
+__About__: I am a 19 years old Python Programmer, Data Science Enthusiast.I'm interested in open source and I love art. 
+__Tech Stack__: Python, HTML, CSS, JavaScript, Visual Studio Code.  
+__Social Handles__: [Twitter](https://twitter.com/starlightknown) | [GitHub](https://github.com/kcoder63) | [Email](mailto:karunatata53@gmail.com)    
+ | [LinkedIn](https://www.linkedin.com/in/karuna-tata63/) 
