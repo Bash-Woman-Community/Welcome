@@ -267,3 +267,10 @@ __About__: I am a 19 years old Python Programmer, Data Science Enthusiast.I'm in
 __Tech Stack__: Python, HTML, CSS, JavaScript, Visual Studio Code.  
 __Social Handles__: [Twitter](https://twitter.com/starlightknown) | [GitHub](https://github.com/kcoder63) | [Email](mailto:karunatata53@gmail.com)    
  | [LinkedIn](https://www.linkedin.com/in/karuna-tata63/) 
+ 
+ 
+ - __Name__ : Diya Jaiswal    
+ __About__ : Hello everyone! I'm Diya Jaiswal, 3rd year Computer Science student from JSSATE, Noida. I'm a Backend Developer in Django and a Competitive Programmer in Python and C++. I’m currently focusing on Frontend Web Development and enhancing my skills in Data Structures and Algorithms.  <br>
+ __Tech Stack__ : HTML/CSS, Bootstrap, Bulma CSS, Javascript, Django, Flask, Django REST Framework       
+ __Social Links__ : [Linkedin](https://www.linkedin.com/in/diyajaiswal11/) | [Github](https://github.com/diyajaiswal11) | [Twitter](https://twitter.com/diyajaiswal_11)
+ 
