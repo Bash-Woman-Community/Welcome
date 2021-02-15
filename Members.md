@@ -274,3 +274,9 @@ __Social Handles__: [Twitter](https://twitter.com/starlightknown) | [GitHub](htt
  __Tech Stack__ : HTML/CSS, Bootstrap, Bulma CSS, Javascript, Django, Flask, Django REST Framework       
  __Social Links__ : [Linkedin](https://www.linkedin.com/in/diyajaiswal11/) | [Github](https://github.com/diyajaiswal11) | [Twitter](https://twitter.com/diyajaiswal_11)
  
+
+- __Name__: Nikita jain  
+__Country__: India  
+__About__: I am a second year Computer Science student from Chitkara University. I am a developer and Competitive programmer. I love to spend time in contributing to open source and would love to upskill in that as much as possible. Other than this I have started learning jquery.  
+__Tech Stack__: Java, Python, C, HTML, CSS, Javascript  
+__Social Handles__: [LinkedIn](linkedin.com/in/nikita-jain-9b58b41b3/)  | [GitHub](https://github.com/nikita-jain-01) | [Twitter](https://twitter.com/nikita_jain_01)  
