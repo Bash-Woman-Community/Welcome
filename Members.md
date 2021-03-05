@@ -1,6 +1,11 @@
 # Members 🙌
 These are the amazing people who have took a step forward to help me get this goal done. I thank each and everyone from the bottom of my heart. ❤
  
+ - __Name__: Nitish Awasthi  
+__Country__: India  
+__About__: A CSE guy who loves experimenting with new technologies, building small projects, a programming enthusiast, and an open-source contributor.  
+__Tech Stack__: C, C++, Java, MySQL, AWS, VS Code, JavaScript, HTML, CSS, Linux, Packet Tracer.  
+__Social Handles__: [Twitter](https://twitter.com/naimish860) | [GitHub](https://github.com/nitish-awasthi) | [Dev.to](https://dev.to/nitishawasthi) | [Email](mailto:anitish.225@gmail.com) | [Facebook](https://www.facebook.com/naimish.awasthi.98/) | [Instagram](https://www.instagram.com/meenitish) | [LinkedIn](https://www.linkedin.com/in/anitish/) 
 
 - __Name__: Vedant Pandya  
 __Country__: India  
