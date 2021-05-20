@@ -299,3 +299,9 @@ __Country__: Pakistan
 __About__: I am a third year Computer Science student at Bahria University. I am a front-end web developer and a Data scientist. And I love to end my sentences with ;(semi-colon) beside this I am currently focusing on Cyber Security.
 __Tech Stack__: Python, C++,HTML, CSS,Boot strap, Javascript, JQuery, Nodejs, 
 __Social Handles__: [LinkedIn](https://www.linkedin.com/in/s4a/)  | [GitHub](https://github.com/mriceflame) | [Twitter](https://twitter.com/mriceflame)  
+
+- __Name__: Umesh Singh  
+__Country__: India  
+__About__: A 2nd year B.E. (Computer Science and Engineering) student at Chandigarh University, Mohali. I am interested in the field of Artificial Intelligence (AI) and Software Development.  
+__Tech Stack__: Python, Java, C, HTML, CSS  
+__Social Handles__: [GitHub](https://github.com/Umesh-01) | [LinkedIn](https://www.linkedin.com/in/umeshsingh19/)  
