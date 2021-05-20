@@ -143,6 +143,13 @@ __Tech Stack__: ReactJS, NodeJS, Express, MongoDB, C++, Java, JavaScript
 __Social Handles__: [Twitter](https://twitter.com/amaancodes) | [Email](mailto:amaan_ahmad_@outlook.com)  
 __Website__: [Blog](https://blog.amaan.codes) 
 
+- __Name__: Samruddhi Wasu   
+__Country__: India      
+__About__: I'm B.E student major Computer Science Engineering.An open-source enthusiast, Python developer, Web developer and Graphic Designer. Participant of GSSOC'21 & CrossWOC'21. Other than this I have started learning UI/UX development.Likes to write tech realted blogs and post it on medium.A creative person.Loves photography, cooking, and to try anything new!  
+__Tech Stack__: Python,C++, Oracle SQL, Node.Js, HTML5, CSS3, Javascript, Bootstrap, Figma, Github and versioning React JS      
+__Social Handles__: [Twitter](https://twitter.com/WasuSamruddhi) | [GitHub](https://github.com/ambivert-sam) | [LinkedIn](https://www.linkedin.com/in/samruddhi-wasu-a7855a204/)     
+ 
+
 
 - __Name__: Nishkarsh Raj  
 __Country__: India  
@@ -157,7 +164,7 @@ __Country__: India
 __About__: I am currently pursuing B.Tech CSE from Banasthali Vidyapith. I am the Google Developer Student Clubs Lead at my Campus and currently interning at CRIS as a Software Developer. Being a technology enthusiast, I love to explore new horizons including open-source contribution and Data Science. I am driven by the will to create an impact and encourage diversity and inclusion in communities.  
 __Tech Stack__: Python, Django, C/C++, HTML, CSS, JavaScript, PostgreSQL  
 __Social Handles__: [Twitter](https://twitter.com/vanshika_garg17) | [GitHub](https://github.com/Vanshikagarg17) | [Linkedin](https://www.linkedin.com/in/vanshikagarg17/)    
-__Website__: [Portfolio](https://criodo.github.io/Crio-Launch-Feb-2020-vanshikagarg17/)
+__Website__: [Portfolio](/https://criodo.github.io/Crio-Launch-Feb-2020-vanshikagarg17/)
 
 
 - __Name__: Shivam Sharma  
