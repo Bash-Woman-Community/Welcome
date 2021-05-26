@@ -299,3 +299,11 @@ __Country__: Pakistan
 __About__: I am a third year Computer Science student at Bahria University. I am a front-end web developer and a Data scientist. And I love to end my sentences with ;(semi-colon) beside this I am currently focusing on Cyber Security.
 __Tech Stack__: Python, C++,HTML, CSS,Boot strap, Javascript, JQuery, Nodejs, 
 __Social Handles__: [LinkedIn](https://www.linkedin.com/in/s4a/)  | [GitHub](https://github.com/mriceflame) | [Twitter](https://twitter.com/mriceflame)  
+
+
+
+- __Name__: Angshu Bhadra
+__Country__: India
+__About__: Hi, I am Angshu Bhadra a third-year undergraduate computer Application student of Acharya Institutes,Bangalore and an enthusiast programmer, and an open-source contributor.
+__Tech Stack__:  Java, jaavaScript, HTML5, CSS3, Bootstrap, PHP, Nodejs, JSON
+__Social Handles__: [LinkedIn](https://www.linkedin.com/in/angshu-bhadra-b456a5196/) | [GitHub](https://github.com/angshuBHADRA)
