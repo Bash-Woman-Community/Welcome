@@ -299,3 +299,10 @@ __Country__: Pakistan
 __About__: I am a third year Computer Science student at Bahria University. I am a front-end web developer and a Data scientist. And I love to end my sentences with ;(semi-colon) beside this I am currently focusing on Cyber Security.
 __Tech Stack__: Python, C++,HTML, CSS,Boot strap, Javascript, JQuery, Nodejs, 
 __Social Handles__: [LinkedIn](https://www.linkedin.com/in/s4a/)  | [GitHub](https://github.com/mriceflame) | [Twitter](https://twitter.com/mriceflame)  
+
+
+- __Name__: Saumya Singh 
+__Country__: India  
+__About__: Namaste, I am 3rd year Computer science student at Arya College of Engineering and IT. I like blogging, problem solving, learning and exploring new stuff. I am looking forward to contribute more and do good to society. I believe that Life is learning and learning is life and one should be positive with things around them.
+__Tech Stack__: C, Java, Python, Git, Front-End developer(MERN stack), ReactJs, MySQL, Google Cloud Platform(beginner), AWS, VS Code, Data Science Enthusiast
+__Social Handles__: [Twitter](https://twitter.com/ssaumyaa_7) | [GitHub](https://github.com/ssaumyaa7) | [Email](mailto:saumya4799@gmail.com) | [Instagram](https://www.instagram.com/ssaumyaa_7) | [LinkedIn](https://www.linkedin.com/in/ssaumyaa7/)  
