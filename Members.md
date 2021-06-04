@@ -301,6 +301,12 @@ __Tech Stack__: Python, C++,HTML, CSS,Boot strap, Javascript, JQuery, Nodejs,
 __Social Handles__: [LinkedIn](https://www.linkedin.com/in/s4a/)  | [GitHub](https://github.com/mriceflame) | [Twitter](https://twitter.com/mriceflame)  
 
 
+- __Name__: Umesh Singh  
+__Country__: India  
+__About__: A 2nd year B.E. (Computer Science and Engineering) student at Chandigarh University, Mohali. I am interested in the field of Artificial Intelligence (AI) and Software Development.  
+__Tech Stack__: Python, Java, C, HTML, CSS  
+__Social Handles__: [GitHub](https://github.com/Umesh-01) | [LinkedIn](https://www.linkedin.com/in/umeshsingh19/)  
+
 - __Name__: Saumya Singh 
 __Country__: India  
 __About__: Namaste, I am 3rd year Computer science student at Arya College of Engineering and IT. I like blogging, problem solving, learning and exploring new stuff. I am looking forward to contribute more and do good to society. I believe that Life is learning and learning is life and one should be positive with things around them.
