@@ -2,7 +2,7 @@
 
 ![Banner](https://github.com/Bash-Woman-Community/Welcome/blob/main/bashwomancommunity.png?raw=true)
 
-## 💻Who Am I?
+## :thought_balloon:Who Am I?
 
 I am [Seema Saharan](https://youtube.com/BashWoman), I have always believed in helping the community, and I love to share my knowledge. I have been helping people in different ways for the past **3 years now**.
 
@@ -31,7 +31,7 @@ Speaker at various events:
 ✍[Hashnode](https://bashwoman.com)  
 📷[Instagram](https://instagram.com/bashwoman)  
 
-## ✔AIM 
+## :dart:AIM 
 
 The Aim of this community is to help 10k people/students in tech. Many students are not aware of the tech, and need some mentorship, we as a community can do our part.
 They have all the resources on Google/Internet but they don't know how can they **effectively** use them.
@@ -59,7 +59,7 @@ Till now, I have thought of providing some sessions to grow students, about:
 
 To be discussed.
 
-# 🔥Members
+# 🤓Members
 
 All the members are here. Thank you for your support.  
 Add yourself [here](https://github.com/Bash-Woman-Community/Welcome/blob/main/Members.md).
