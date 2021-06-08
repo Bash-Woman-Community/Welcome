@@ -306,3 +306,9 @@ __Country__: India
 __About__: Namaste, I am 3rd year Computer science student at Arya College of Engineering and IT. I like blogging, problem solving, learning and exploring new stuff. I am looking forward to contribute more and do good to society. I believe that Life is learning and learning is life and one should be positive with things around them.
 __Tech Stack__: C, Java, Python, Git, Front-End developer(MERN stack), ReactJs, MySQL, Google Cloud Platform(beginner), AWS, VS Code, Data Science Enthusiast
 __Social Handles__: [Twitter](https://twitter.com/ssaumyaa_7) | [GitHub](https://github.com/ssaumyaa7) | [Email](mailto:saumya4799@gmail.com) | [Instagram](https://www.instagram.com/ssaumyaa_7) | [LinkedIn](https://www.linkedin.com/in/ssaumyaa7/)  
+
+- __Name__: Sameer Sinha
+__Country__: India  
+__About__: Hey, This is Sameer Sinha, a 3rd year pursuing B.Tech from Jadavpur University. I am a Web & App Developer. I am looking forward to contribute to open source projects. 
+__Tech Stack__: C++, Java, JavaScript, Python, Git, Front-End developer(MERN stack), ReactJs, MySQL, NodeJS, Flutter, Firebase
+__Social Handles__: [Twitter](https://twitter.com/mai_hoon_sameer) | [GitHub](https://github.com/sameer882000) | [LinkedIn](https://www.linkedin.com/in/sameer-sinha-4b3a40174)  
